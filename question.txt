@@ -1,0 +1,10 @@
+What is the capital of France?|Paris
+What is 5 + 7?|12
+Who wrote 'Hamlet'?|Shakespeare
+What is the largest planet in our solar system?|Jupiter
+Which language is used to write Python programs?|Python
+What is the square root of 81?|9
+What is the chemical symbol of water?|H2O
+Who painted the Mona Lisa?|Da Vinci
+What is 15 divided by 3?|5
+Which continent is the Sahara Desert located in?|Africa
